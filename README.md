@@ -1,6 +1,8 @@
 # Hola! mi nombre es Cristian Damian Acevey Hipolito
 #### Tambien conocido como CrisAcevey en github.
 
+### Mi email: acevey.cris@gmail.com
+
 </br>
 
 ## ¿Quién soy?
@@ -75,8 +77,9 @@
 </a>
 <a href="https://instagram.com/Cris_Acevey" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   
+</a>
 </div>  
+<br/>
 
 ## Estadísticas de Github
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CrisAcevey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
